@@ -1,6 +1,6 @@
-### Hi there im thecoderkitty
+### Hi
 
-im a 7th grade student
+im a 7th grade student, i like photography, graphic design and programming
 
 - python dev
 - flutter dev
