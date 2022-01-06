@@ -1,4 +1,4 @@
-### Hi
+### Hi!
 
 im a 7th grade student, i like IoT, graphic design and programming
 
