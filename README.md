@@ -1,8 +1,18 @@
-### Hi!
+# Hi!
 
-im a 8th grade student, i like IoT, graphic design and programming
+I am a 14 year old student.
 
-- python dev
-- flutter dev
-- fullstack web dev
-- learning some Rust
+I am currently interested in
+- Fullstack web development
+- Discord bot development
+- Machine Learning stuff, especially DL
+- MAFS (calculus, linealg, algebra)
+- Art
+
+I have 3-4 years experience with programming
+favorite language is python, and JavaScript
+
+Have dabbled in making music but immediately gave up
+
+
+
