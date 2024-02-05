@@ -10,4 +10,4 @@ I code in
 - Rust (CURRENTLY LEARNING)
 
 # I am still shitty.
-![Alans GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatAlan&show_icons=true&theme=gruvbox)
+![Alans GitHub stats](https://github-readme-stats.vercel.app/api?username=samrafif&show_icons=true&theme=gruvbox)
