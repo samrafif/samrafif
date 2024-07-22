@@ -9,5 +9,5 @@ I code in
 - C++
 - Rust (CURRENTLY LEARNING)
 
-# I am still shitty.
+# lol.
 ![Alans GitHub stats](https://github-readme-stats.vercel.app/api?username=samrafif&show_icons=true&theme=gruvbox)
